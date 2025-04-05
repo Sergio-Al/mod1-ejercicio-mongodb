@@ -42,6 +42,7 @@ pm2-debug.log
 
 # MongoDB data directory (if applicable)
 /data/db/
+/mongo/
 
 # Miscellaneous
 .DS_Store
